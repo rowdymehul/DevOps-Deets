@@ -25,3 +25,6 @@ $ docker search <image>
 * docker search – Searches the Docker Hub for images
 * docker attach – Attaches to a running container
 * docker commit – Creates a new image from a container’s changes
+
+
+### Check out the complete list of commands in the [Docker documentation](https://docs.docker.com/engine/reference/commandline/docker/)
